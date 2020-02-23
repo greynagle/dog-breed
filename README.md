@@ -1,0 +1,1 @@
+This is a small program that retrieves one random image of a specified breed
